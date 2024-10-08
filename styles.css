@@ -9,7 +9,7 @@ body {
 }
 
 .first-section {
-    align-items: center;
+    align-items: center;    
     justify-content: center;
     display: flex;
     flex-direction: row;
@@ -20,13 +20,13 @@ body {
 }
 
 .red-block {
-    background-color: red;
+    background-color: rgb(243, 63, 31);
     width: 68%;
     height: 30vh;
 }
 
 .red-block2 {
-    background-color: red;
+    background-color: rgb(243, 63, 31);
     width: 28%;
     height: 30vh;
 }
